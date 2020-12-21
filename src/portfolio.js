@@ -54,7 +54,7 @@ const academicProjects = [
 const skillsSection = {
   title: "What I do",
   subTitle:
-    "Full stack developer interested in building beautiful apps to help",
+    "Full stack developer interested in building beautiful apps to help people achieve more",
   skills: [
     emoji(
       "⚡ Develop highly interactive User Interfaces for your web applications."
