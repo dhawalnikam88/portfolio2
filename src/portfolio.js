@@ -133,7 +133,7 @@ const educationInfo = {
       schoolName: "University of Missouri",
       logo: require("./assets/images/missouriSeal.png"),
       subHeader: "Master of Science in Computer Science",
-      duration: "2012 - 2014",
+      duration: "", //2012 - 2014
       desc: "",
       // descBullets: [""],
     },
@@ -141,7 +141,7 @@ const educationInfo = {
       schoolName: "University of Pune",
       logo: require("./assets/images/puneUniversityLogo.jpg"),
       subHeader: "Bachelor of Engineering in Computer Engineering",
-      duration: "2006 - 2010",
+      duration: "", //2006 - 2010
       desc: "",
       // descBullets: [""],
     },
