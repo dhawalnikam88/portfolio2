@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8cdd0b1bed4bf323f2bcb9ae330c9f7",
+    "revision": "c7f5e3b77611b6f5456aa842e58c352e",
     "url": "/portfolio2/index.html"
   },
   {
-    "revision": "456ebcd3f231b94be58f",
-    "url": "/portfolio2/static/css/3.00373544.chunk.css"
+    "revision": "e2d52acad72f2b830dc6",
+    "url": "/portfolio2/static/css/3.3a26ebde.chunk.css"
   },
   {
-    "revision": "8339a3c65476406ea4d3",
-    "url": "/portfolio2/static/css/4.a922a401.chunk.css"
+    "revision": "0ae622d766be990030f8",
+    "url": "/portfolio2/static/css/4.9f3d8bdc.chunk.css"
   },
   {
-    "revision": "cfcfe4e5206c4a243c01",
-    "url": "/portfolio2/static/css/main.eff88548.chunk.css"
+    "revision": "ec78d69513e30ac50866",
+    "url": "/portfolio2/static/css/main.2183d432.chunk.css"
   },
   {
-    "revision": "c8043514d9e1d975bbcd",
-    "url": "/portfolio2/static/js/2.cc7f3afa.chunk.js"
+    "revision": "6550b696e997088140e8",
+    "url": "/portfolio2/static/js/2.a9f54b53.chunk.js"
   },
   {
-    "revision": "456ebcd3f231b94be58f",
+    "revision": "e2d52acad72f2b830dc6",
     "url": "/portfolio2/static/js/3.7239d54f.chunk.js"
   },
   {
-    "revision": "8339a3c65476406ea4d3",
-    "url": "/portfolio2/static/js/4.0e902777.chunk.js"
+    "revision": "0ae622d766be990030f8",
+    "url": "/portfolio2/static/js/4.df8c5eca.chunk.js"
   },
   {
-    "revision": "cfcfe4e5206c4a243c01",
-    "url": "/portfolio2/static/js/main.e9b287a2.chunk.js"
+    "revision": "ec78d69513e30ac50866",
+    "url": "/portfolio2/static/js/main.5fec5213.chunk.js"
   },
   {
-    "revision": "b61fa7729f61ba90c1e7",
-    "url": "/portfolio2/static/js/runtime-main.489c063c.js"
+    "revision": "dfdd73a56a1ea299e990",
+    "url": "/portfolio2/static/js/runtime-main.ee5c8af8.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -168,11 +168,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio2/static/media/stanfordLogo.3b758ef5.png"
   },
   {
-    "revision": "13780cdd0144cacdef25486e2c2503f8",
-    "url": "/portfolio2/static/media/talksCardBack.13780cdd.svg"
+    "revision": "39eff4a91b01e00a32cb78f3797eec88",
+    "url": "/portfolio2/static/media/talksCardBack.39eff4a9.svg"
   },
   {
-    "revision": "b48e86c9a956d3a3a32ca4a5ae05ddc7",
-    "url": "/portfolio2/static/media/talksCardBackAlt.b48e86c9.svg"
+    "revision": "7f0feeedda08cf7d68593454bc2e82b5",
+    "url": "/portfolio2/static/media/talksCardBackAlt.7f0feeed.svg"
   }
 ]);
