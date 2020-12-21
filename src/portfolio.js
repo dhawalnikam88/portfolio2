@@ -31,18 +31,21 @@ const socialMediaLinks = {
 const academicProjects = [
   {
     projectName: "Behavior Modeling",
+    id: "acad1",
     description: emoji(
       "⚡ Designed and implemented a classifying model to study customer buying habits to identify new potential customers using several advanced data mining techniques such as decision trees and support vector machines."
     ),
   },
   {
     projectName: "Distributed Computing",
+    id: "acad2",
     description: emoji(
       "⚡ Wrote distributed (multi-process) and parallel (shared-memory) computing programs to implement solutions to several classic problems such as N-Queens and MatMul."
     ),
   },
   {
     projectName: "Game Logic Design",
+    id: "acad3",
     description: emoji(
       "⚡ Developed a multi-player jigsaw puzzle solving game in Java with support for custom rules, 360-degree rotation and other usability features. Link to demo/video: https://www.youtube.com/watch?v=kJeeZ_d7KWc"
     ),
