@@ -37,15 +37,15 @@ export default function Greeting() {
                 <Button
                   text="See my resume"
                   newTab={true}
-                  href={greeting.resumeLink}
+                  href={process.env.PUBLIC_URL + "/Dhawal_Resume_12_5_2020.pdf"}
                 />
               </div>
             </div>
           </div>
           <div className="greeting-image-div">
             <img
-              alt="saad sitting on table"
-              src={require("../../assets/images/manOnTable.svg")}
+              alt="Dhawal in snow"
+              src={require("../../assets/images/profilePic5.jpg")}
             ></img>
           </div>
         </div>

@@ -16,7 +16,7 @@
 .header {
   background-color: #fff;
   max-width: 100%;
-  padding: 15px 20px;
+  padding: 25px 20px;
   margin: 0px auto;
 }
 
@@ -26,8 +26,36 @@
   list-style: none;
   overflow: hidden;
 }
+
+.logo-container {
+  width: 296px;
+  /* display: inline-block; */
+  margin-left: 18%;
+}
+
+/* Media Query */
+@media (max-width: 770px) {
+  .logo-container {
+    display: block;
+    margin-left: 50%;
+  }
+}
+
 .grey-color {
   color: #868e96;
+}
+
+.profile-pic-roundedimg {
+  object-fit: cover;
+  margin-right: 2rem;
+  width: 4.5rem;
+  height: 4.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.3);
+  border-radius: 50%;
+  margin-left: 100px;
+  float: right;
+  margin-top: -77px;
+  visibility: hidden;
 }
 
 .header li a {
@@ -52,7 +80,7 @@
   line-height: normal;
 }
 .header .logo-name {
-  font-family: "Agustina Regular";
+  font-family: "Montserrat";
   font-weight: bold;
   font-variant-ligatures: no-common-ligatures;
   -webkit-font-variant-ligatures: no-common-ligatures;

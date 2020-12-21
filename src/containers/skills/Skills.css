@@ -12,8 +12,10 @@
 }
 
 .skills-image-div > img {
-  max-width: 100%;
+  max-width: 65%;
   height: auto;
+  margin: 15% auto 10% 0%;
+  display: block;
 }
 
 .skills-heading {
@@ -54,7 +56,7 @@
     text-align: center;
   }
   .skills-image-div {
-    /* display: none; */
+    display: none;
     order: 2;
   }
 }

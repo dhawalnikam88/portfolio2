@@ -4,17 +4,31 @@ import "./Header.css";
 import ToggleSwitch from "../ToggleSwitch/ToggleSwitch";
 import StyleContext from "../../contexts/StyleContext";
 import { greeting, workExperiences } from "../../portfolio";
+// import "../assets/images/profilePic.jpg";
 
 function Header() {
   const { isDark } = useContext(StyleContext);
   const exp = workExperiences.viewExperiences;
+  // const imgRef = createRef();
+
   return (
     <Headroom>
       <header className={isDark ? "dark-menu header" : "header"}>
         <a href="" className="logo">
-          <span className="grey-color"> &lt;</span>
-          <span className="logo-name">{greeting.username}</span>
-          <span className="grey-color">/&gt;</span>
+          {/* <div className="logo-container">
+            <span className="grey-color"> &lt;</span>
+            <span className="logo-name">{greeting.username}</span>
+            <span className="grey-color">/&gt;</span>
+          </div> */}
+          {/* <span>
+            <img
+              crossOrigin={"anonymous"}
+              // ref={imgRef}
+              className="profile-pic-roundedimg"
+              src={require("../../assets/images/profilePic4.jpg")}
+              alt={"Profile Pic"}
+            />
+          </span> */}
         </a>
         <input className="menu-btn" type="checkbox" id="menu-btn" />
         <label
@@ -33,7 +47,7 @@ function Header() {
               <a href="#experience">Work Experiences</a>
             </li>
           )}
-          <li>
+          {/* <li>
             <a href="#opensource">Open Source</a>
           </li>
           <li>
@@ -44,7 +58,7 @@ function Header() {
           </li>
           <li>
             <a href="#talks">Talks</a>
-          </li>
+          </li> */}
           <li>
             <a href="#contact">Contact Me</a>
           </li>

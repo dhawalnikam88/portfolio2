@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import "./StartupProjects.css";
-import { bigProjects } from "../../portfolio";
+import { bigProjects, academicProjects } from "../../portfolio";
 import { Fade } from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
 
@@ -26,13 +26,23 @@ export default function StartupProject() {
           </p>
           <div className="startup-projects-main">
             <div className="startup-project-text">
-              {bigProjects.projects.map((project) => {
+              {/* {bigProjects.projects.map((project) => {
                 return (
                   <div
                     className="saaya-health-div"
                     onClick={() => openProjectInNewWindow(project.link)}
                   >
                     <img alt="Saad Working" src={project.image}></img>
+                  </div>
+                );
+              })} */}
+              {academicProjects.map((project) => {
+                return (
+                  <div>
+                    <label className="project-name">
+                      {project.projectName}
+                    </label>
+                    <p>{project.description}</p>
                   </div>
                 );
               })}
