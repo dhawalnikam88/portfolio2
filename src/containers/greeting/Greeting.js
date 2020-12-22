@@ -37,7 +37,7 @@ export default function Greeting() {
                 <Button
                   text="See my resume"
                   newTab={true}
-                  href={process.env.PUBLIC_URL + "/Dhawal_Resume_12_5_2020.pdf"}
+                  href={process.env.PUBLIC_URL + "/Dhawal_Nikam_Resume.pdf"}
                 />
               </div>
             </div>
