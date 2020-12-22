@@ -77,9 +77,12 @@ const skillsSection = {
       "⚡ Develop highly interactive User Interfaces for your web applications."
     ),
     emoji(
-      "⚡ Hands on experience building scalable data driven web applications and recommender systems."
+      "⚡ Build scalable data driven web applications and recommender systems."
     ),
-    emoji("⚡ Integration of third party services such as Firebase/ Azure."),
+    emoji("⚡ Create beautiful custom charts using D3.js."),
+    emoji(
+      "⚡ Integrate and deploy apps using third party services such as Azure."
+    ),
   ],
 
   /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -196,7 +199,7 @@ const workExperiences = {
     },
     {
       role: "Senior Software Developer",
-      company: "KMR Group (A WCG Company)",
+      company: "KMR Group (WCG Company)",
       companylogo: require("./assets/images/kmrgroupLogo.png"),
       date: "Sep 2014 – Dec 2019",
       desc: "Chicago, Illinois (USA)",
@@ -218,17 +221,17 @@ const workExperiences = {
         "Implemented a tool for real time analysis of commercial Twitter feed during presidential debates to extract information about listener sentiments.",
       ],
     },
-    // {
-    //   role: "Software Developer",
-    //   company: "JP Mukherjee & Associates",
-    //   companylogo: require("./assets/images/airbnbLogo.png"),
-    //   date: "Aug 2010 – Jun 2011",
-    //   desc: "Pune, Maharashtra (India)",
-    //   descBullets: [
-    //     "Designed and implemented a tool for collecting and updating public data for sugar industry sites and for classifying the sites based on performance metrics.",
-    //     "Implemented a reporting tool to convert excel data into PDF reports.",
-    //   ],
-    // },
+    {
+      role: "Software Developer",
+      company: "JP Mukherjee & Associates",
+      companylogo: require("./assets/images/jpmukherjeeLogo.png"),
+      date: "Aug 2010 – Jun 2011",
+      desc: "Pune, Maharashtra (India)",
+      descBullets: [
+        "Designed and implemented a tool for collecting and updating public data for sugar industry sites and for classifying the sites based on performance metrics.",
+        "Implemented a reporting tool to convert excel data into PDF reports.",
+      ],
+    },
   ],
 };
 
