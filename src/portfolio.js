@@ -1,8 +1,21 @@
 ﻿/* Change this file to get your personal Portfolio */
 
 // Your Summary And Greeting Section
-
+import React from "react";
 import emoji from "react-easy-emoji";
+import { FaDatabase } from "react-icons/fa";
+import {
+  SiJavascript,
+  SiReact,
+  SiCsharp,
+  SiD3DotJs,
+  SiMicrosoftazure,
+  SiHtml5,
+  SiCss3,
+  SiSass,
+  SiNodeDotJs,
+  SiNpm,
+} from "react-icons/si";
 
 const greeting = {
   /* Your Summary And Greeting Section */
@@ -54,6 +67,7 @@ const academicProjects = [
 
 // Your Skills Section
 
+const iconColor = "#b3b2b1";
 const skillsSection = {
   title: "What I do",
   subTitle:
@@ -74,55 +88,47 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js",
+      skillIcon: <SiJavascript color={iconColor} />,
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react",
+      skillName: "Reactjs",
+      skillIcon: <SiReact color={iconColor} />,
     },
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5",
+      skillName: "C#",
+      skillIcon: <SiCsharp color={iconColor} />,
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt",
+      skillName: "Sql-Database",
+      skillIcon: <FaDatabase color={iconColor} />,
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass",
+      skillName: "D3.js",
+      skillIcon: <SiD3DotJs color={iconColor} />,
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node",
+      skillName: "Azure",
+      skillIcon: <SiMicrosoftazure color={iconColor} />,
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift",
+      skillName: "Html5",
+      skillIcon: <SiHtml5 color={iconColor} />,
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm",
+      skillName: "Css3",
+      skillIcon: <SiCss3 color={iconColor} />,
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database",
+      skillName: "Sass",
+      skillIcon: <SiSass color={iconColor} />,
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws",
+      skillName: "Nodejs",
+      skillIcon: <SiNodeDotJs color={iconColor} />,
     },
     {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire",
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python",
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker",
+      skillName: "Npm",
+      skillIcon: <SiNpm color={iconColor} />,
     },
   ],
 };
