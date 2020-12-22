@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio2/static/css/main.a7de2126.chunk.css",
-    "main.js": "/portfolio2/static/js/main.f1452247.chunk.js",
-    "main.js.map": "/portfolio2/static/js/main.f1452247.chunk.js.map",
-    "runtime-main.js": "/portfolio2/static/js/runtime-main.14fbe9cc.js",
-    "runtime-main.js.map": "/portfolio2/static/js/runtime-main.14fbe9cc.js.map",
+    "main.css": "/portfolio2/static/css/main.ec5a960e.chunk.css",
+    "main.js": "/portfolio2/static/js/main.bb370d93.chunk.js",
+    "main.js.map": "/portfolio2/static/js/main.bb370d93.chunk.js.map",
+    "runtime-main.js": "/portfolio2/static/js/runtime-main.1f8fc6ec.js",
+    "runtime-main.js.map": "/portfolio2/static/js/runtime-main.1f8fc6ec.js.map",
     "static/js/2.765dc324.chunk.js": "/portfolio2/static/js/2.765dc324.chunk.js",
     "static/js/2.765dc324.chunk.js.map": "/portfolio2/static/js/2.765dc324.chunk.js.map",
-    "static/css/3.3a26ebde.chunk.css": "/portfolio2/static/css/3.3a26ebde.chunk.css",
+    "static/css/3.00373544.chunk.css": "/portfolio2/static/css/3.00373544.chunk.css",
     "static/js/3.5d61eeee.chunk.js": "/portfolio2/static/js/3.5d61eeee.chunk.js",
     "static/js/3.5d61eeee.chunk.js.map": "/portfolio2/static/js/3.5d61eeee.chunk.js.map",
-    "static/css/4.6f6f31d4.chunk.css": "/portfolio2/static/css/4.6f6f31d4.chunk.css",
-    "static/js/4.50267553.chunk.js": "/portfolio2/static/js/4.50267553.chunk.js",
-    "static/js/4.50267553.chunk.js.map": "/portfolio2/static/js/4.50267553.chunk.js.map",
+    "static/css/4.0f41e664.chunk.css": "/portfolio2/static/css/4.0f41e664.chunk.css",
+    "static/js/4.46925173.chunk.js": "/portfolio2/static/js/4.46925173.chunk.js",
+    "static/js/4.46925173.chunk.js.map": "/portfolio2/static/js/4.46925173.chunk.js.map",
     "index.html": "/portfolio2/index.html",
-    "precache-manifest.bf4129c9c07eb26e4abe2295884b4547.js": "/portfolio2/precache-manifest.bf4129c9c07eb26e4abe2295884b4547.js",
+    "precache-manifest.4bd79252f61833bdc4478b92f6c3bde0.js": "/portfolio2/precache-manifest.4bd79252f61833bdc4478b92f6c3bde0.js",
     "service-worker.js": "/portfolio2/service-worker.js",
-    "static/css/3.3a26ebde.chunk.css.map": "/portfolio2/static/css/3.3a26ebde.chunk.css.map",
-    "static/css/4.6f6f31d4.chunk.css.map": "/portfolio2/static/css/4.6f6f31d4.chunk.css.map",
-    "static/css/main.a7de2126.chunk.css.map": "/portfolio2/static/css/main.a7de2126.chunk.css.map",
+    "static/css/3.00373544.chunk.css.map": "/portfolio2/static/css/3.00373544.chunk.css.map",
+    "static/css/4.0f41e664.chunk.css.map": "/portfolio2/static/css/4.0f41e664.chunk.css.map",
+    "static/css/main.ec5a960e.chunk.css.map": "/portfolio2/static/css/main.ec5a960e.chunk.css.map",
     "static/media/index.css": "/portfolio2/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/airbnbLogo.png": "/portfolio2/static/media/airbnbLogo.c59720d6.png",
     "static/media/codeInLogo.webp": "/portfolio2/static/media/codeInLogo.47a7a717.webp",
@@ -51,13 +51,13 @@
     "static/media/saayaHealthLogo.webp": "/portfolio2/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "/portfolio2/static/media/skill.34409398.svg",
     "static/media/stanfordLogo.png": "/portfolio2/static/media/stanfordLogo.3b758ef5.png",
-    "static/media/TalkCard.css": "/portfolio2/static/media/talksCardBack.39eff4a9.svg",
-    "static/media/talksCardBackAlt.svg": "/portfolio2/static/media/talksCardBackAlt.7f0feeed.svg"
+    "static/media/TalkCard.css": "/portfolio2/static/media/talksCardBack.13780cdd.svg",
+    "static/media/talksCardBackAlt.svg": "/portfolio2/static/media/talksCardBackAlt.b48e86c9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.14fbe9cc.js",
+    "static/js/runtime-main.1f8fc6ec.js",
     "static/js/2.765dc324.chunk.js",
-    "static/css/main.a7de2126.chunk.css",
-    "static/js/main.f1452247.chunk.js"
+    "static/css/main.ec5a960e.chunk.css",
+    "static/js/main.bb370d93.chunk.js"
   ]
 }
