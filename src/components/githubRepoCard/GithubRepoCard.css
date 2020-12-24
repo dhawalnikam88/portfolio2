@@ -70,6 +70,7 @@
   -webkit-box-orient: vertical;
   min-height: 115px;
   overflow-y: auto;
+  margin-top: 4%;
 }
 
 @media (max-width: 768px) {
